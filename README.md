@@ -44,12 +44,12 @@
   
 <h2 align="center"> PROJECTS </h2>
 
-<h4>1. Videogame using DOM manipulation: **Reboot Driver**</h4>
+<h4>1. Videogame using DOM manipulation: <strong>Reboot Driver</strong></h4>
 
 <a href="https://jonathanpmelian.github.io/RebootDriver/"><img src="https://user-images.githubusercontent.com/89730979/144331017-5f802663-49fd-4c0e-b9f6-9af132147c4a.png"> </a>
 
 
-<h4>2. Classroom management and gamification app: **Class Royale**</h4>
+<h4>2. Classroom management and gamification app: Class Royale</h4>
 <a href="https://class-royale.netlify.app/"><img src="https://i.gyazo.com/4dd9a82f79c2e165c3688966d31b0c87.gif"> </a>
 
 ---
