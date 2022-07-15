@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrián Díez</h1>
 
-<h3> I'm a 28 year old English teacher with the desire to apply what I know from my work experience and my programming studies to real life cases, whether in open source projects or as part of a company. </h3>
+<h3> I'm a 28 year old full-stack web developer with the desire to apply what I know from my work experience and my programming studies to real life cases, whether in open source projects or as part of a company. </h3>
 
 ---
 
