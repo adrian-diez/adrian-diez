@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrián Díez</h1>
 
-<h3> I'm a 28 year old full-stack web developer with the desire to apply what I know from my work experience and my programming studies to real life cases, whether in open source projects or as part of a company. </h3>
+<h3> I'm a 29 year old full-stack web developer currently working on comission on Fiverr, with the aim to get into a company and start growing as part of it. </h3>
 
 ---
 
 - Worked with **MEVN** in the past.
-- Currently learning **React**.
+- Currently learning **PHP**, **AJAX** and **JQuery**.
 - Reach me at **adrian.diezg@hotmail.com** or through **[my LinkedIn page](https://www.linkedin.com/in/adrian-diez-gp)**.
 
 ---
@@ -68,5 +68,5 @@
 
 ---
 <br/>  
-  <h6>Last Edited on: 05/06/2022</h6>
+  <h6>Last Edited on: 25/01/2023</h6>
 
