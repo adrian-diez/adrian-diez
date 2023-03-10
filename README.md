@@ -4,7 +4,7 @@
 
 ---
 
-- Worked with **MEVN** in the past.
+- Been working with **MEVN** stack for a year now.
 - Currently learning **PHP**, **AJAX** and **JQuery**.
 - Reach me at **adrian.diezg@hotmail.com** or through **[my LinkedIn page](https://www.linkedin.com/in/adrian-diez-gp)**.
 
